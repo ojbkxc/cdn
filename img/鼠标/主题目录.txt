@@ -1,0 +1,4 @@
+
+                  \themes\Sakura\source\css\style.css
+
+        cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn/img/鼠标样式/默认.cur),auto !important;
