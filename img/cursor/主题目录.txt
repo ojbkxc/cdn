@@ -1,0 +1,9 @@
+
+                  \themes\Sakura\source\css\style.css
+
+        cursor: url(https://cdn.jsdelivr.net/gh/ojbkxc/cdn/img/鼠标样式/默认.cur),auto !important;
+
+
+         3960行           cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/ayuda.cur),auto !important;
+
+        cursor: url(https://cdn.jsdelivr.net/gh/ojbkxc/cdn/img/cursor/Arrow.cur),auto !important;
