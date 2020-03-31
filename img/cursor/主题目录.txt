@@ -10,3 +10,5 @@
 
 
     2242  ÐÐ   https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/scroll.png     ÉÏµõ°×Ã¨
+        background:url(https://cdn.jsdelivr.net/gh/ojbkxc/cdn/img/other/hybmg.png) no-repeat center;
+        background:url(https://cdn.jsdelivr.net/gh/ojbkxc/cdn/img/other/hybmg.png) no-repeat center;
